@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afarhin&label=Profile%20views&color=0e75b6&style=flat" alt="afarhin" /> </p>
 
-<!-- - 🔭 I’m currently working on **Javascript** -->
+- 🔭 I’m currently working on **My own portfolio**
 
 - 🌱 I’m currently gaining skill on **Javascript**
 

@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ahmeda.farhin28@gmail.com**
 
-- ⚡ Fun fact **I am a creative person, who loves painting, photography, videography**
+- ⚡ Fun fact: **I am a creative person, who loves painting, photography, videography**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

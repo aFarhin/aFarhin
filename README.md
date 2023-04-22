@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afarhin&label=Profile%20views&color=0e75b6&style=flat" alt="afarhin" /> </p>
 
-- 🔭 I’m currently working on **My own portfolio**
+<!-- - 🔭 I’m currently working on **My own portfolio** -->
 
-- 🌱 I’m currently gaining skill on **Javascript**
+<!-- - 🌱 I’m currently gaining skill on **Javascript** -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/aFarhin](https://github.com/aFarhin)
 

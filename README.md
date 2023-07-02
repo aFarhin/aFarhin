@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aFarhin](https://github.com/aFarhin)
 
-- 💬 Ask me about **HTML,CSS, Javascript, Java**
+- 💬 Ask me about **HTML,CSS, Javascript, Java, React, Redux**
 
 - 📫 How to reach me **ahmeda.farhin28@gmail.com**
 
